@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>祀画の次元</title>
+    <link>https://ihux.cn/</link>
+    <description>Recent content on 祀画の次元</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 29 Dec 2018 20:24:28 +0800</lastBuildDate>
+    
+	<atom:link href="https://ihux.cn/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>关于</title>
+      <link>https://ihux.cn/about/</link>
+      <pubDate>Sat, 29 Dec 2018 20:24:28 +0800</pubDate>
+      
+      <guid>https://ihux.cn/about/</guid>
+      <description>Hugo 官方主页: https://gohugo.io/ Hugo的安装方式有两种，一种是直接下载编译好的Hugo二进制文件。如果只是使用Hugo推荐用这种方式。另一种方式是获取Hugo的源码，自己编译。由于各种不可预料的网络问题，第二种方式不</description>
+    </item>
+    
+  </channel>
+</rss>
