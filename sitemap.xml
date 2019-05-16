@@ -3,23 +3,59 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ihux.cn/about/</loc>
-    <lastmod>2018-12-29T20:24:28+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ihux.cn/</loc>
-    <lastmod>2018-12-29T20:24:28+08:00</lastmod>
+    <loc>https://ihux.cn/tags/java/</loc>
+    <lastmod>2019-05-13T19:19:58+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ihux.cn/categories/</loc>
+    <loc>https://ihux.cn/posts/my-first-post/</loc>
+    <lastmod>2019-05-13T19:19:58+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ihux.cn/tags/math/</loc>
+    <lastmod>2019-05-13T19:19:58+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ihux.cn/posts/</loc>
+    <lastmod>2019-05-13T19:19:58+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ihux.cn/tags/</loc>
+    <lastmod>2019-05-13T19:19:58+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ihux.cn/tags/%E6%96%B9%E6%B3%95/</loc>
+    <lastmod>2019-05-13T19:19:58+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ihux.cn/</loc>
+    <lastmod>2019-05-13T19:19:58+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ihux.cn/tags/%E7%B1%BB/</loc>
+    <lastmod>2019-05-13T19:19:58+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ihux.cn/about/</loc>
+    <lastmod>2018-12-29T20:24:28+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ihux.cn/categories/</loc>
     <priority>0</priority>
   </url>
   

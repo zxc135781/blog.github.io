@@ -6,9 +6,46 @@
     <description>Recent content in Tags on 祀画の次元</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
+    <lastBuildDate>Mon, 13 May 2019 19:19:58 +0800</lastBuildDate>
     
 	<atom:link href="https://ihux.cn/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Java</title>
+      <link>https://ihux.cn/tags/java/</link>
+      <pubDate>Mon, 13 May 2019 19:19:58 +0800</pubDate>
+      
+      <guid>https://ihux.cn/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Math</title>
+      <link>https://ihux.cn/tags/math/</link>
+      <pubDate>Mon, 13 May 2019 19:19:58 +0800</pubDate>
+      
+      <guid>https://ihux.cn/tags/math/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>方法</title>
+      <link>https://ihux.cn/tags/%E6%96%B9%E6%B3%95/</link>
+      <pubDate>Mon, 13 May 2019 19:19:58 +0800</pubDate>
+      
+      <guid>https://ihux.cn/tags/%E6%96%B9%E6%B3%95/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>类</title>
+      <link>https://ihux.cn/tags/%E7%B1%BB/</link>
+      <pubDate>Mon, 13 May 2019 19:19:58 +0800</pubDate>
+      
+      <guid>https://ihux.cn/tags/%E7%B1%BB/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
